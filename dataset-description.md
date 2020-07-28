@@ -1,0 +1,1 @@
+This release contains information on the Sahm Recession Indicator which signals the beginning of a recession based on the three-month moving average of the national unemployment rate (U3) in the U.S. The U3 rate shows signs of a recession when it rises by 0.50 percentage points or more relative to its low in the past 12 months.
