@@ -5,7 +5,7 @@
 Real-time Sahm Rule Recession Indicator | FRED
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-vkbu2bcnuq72a](https://aws.amazon.com/marketplace/pp/prodview-vkbu2bcnuq72a).
 
 ## Main Overview
 
